@@ -1,2 +1,2 @@
-# first-gutenberg-block
+# First gutenberg block
 Here is the Demo Gutenberg Block with Details Description
